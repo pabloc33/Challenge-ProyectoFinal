@@ -1,0 +1,21 @@
+PUT http://localhost:3000/evento/610ed3804897fc2e60e75e94
+Content-Type: application/json
+token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjp7InVzZXJuYW1lIjoiRmVybmFuZG8gSGVycmVyYSIsImVtYWlsIjoidGVzdDFAZ21haWwuY29tIiwiaWQiOiI2MTBiMTc5YTg1OWZkMjQxYzQzN2U4NjkifSwiaWF0IjoxNjI4MzYwNDkzLCJleHAiOjE2Mjg1MzMyOTN9.EQHneM8mHIPRqqDbtBsS9HRLxMu21bnx_e0DJ6WW9Pw
+
+{
+        "destacado": "DESTACADO",
+        "titulo": "Casamiento de Vicky y Pablo",
+        "descripcion": "Caterin completo",
+        "lugar": "Ventos Eventos",
+        "lista": [
+            {
+                "fecha": "2021-08-06 14:20:35",
+                "precio": 21000
+            },
+            {
+                "fecha": "2021-09-05 14:20:35",
+                "precio": 32500
+            }
+        ]
+    
+}

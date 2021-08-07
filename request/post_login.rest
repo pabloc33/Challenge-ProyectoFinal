@@ -1,0 +1,9 @@
+POST http://localhost:3000/login
+Content-Type: application/json
+
+{
+  "email": "test1@gmail.com",
+  "password": "123456"
+}
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c3VhcmlvIjp7InVzZXJuYW1lIjoiRmVybmFuZG8gSGVycmVyYSIsImVtYWlsIjoidGVzdDFAZ21haWwuY29tIiwiaWQiOiI2MTBiMTc5YTg1OWZkMjQxYzQzN2U4NjkifSwiaWF0IjoxNjI4MzYwNDkzLCJleHAiOjE2Mjg1MzMyOTN9.EQHneM8mHIPRqqDbtBsS9HRLxMu21bnx_e0DJ6WW9Pw
